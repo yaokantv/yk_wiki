@@ -1,0 +1,14 @@
+docs_android:
+  sdk_document:
+    overview: index.html
+    detailed: detailed.html
+    update_log: update_log.html
+    code_description: code_description.html
+    rc_key: rc_key.html 
+docs_ios:
+  sdk_document:
+    overview: index.html
+    detailed: detailed.html
+    update_log: update_log.html
+    code_description: code_description.html
+    rc_key: rc_key.html 

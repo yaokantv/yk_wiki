@@ -1,0 +1,11 @@
+# sdk_docs:
+#   ios: /docs/
+#   android: /docs/
+# docs: /docs/
+docs_ios: /docs_ios/
+docs_android: /docs_android/
+
+# api: /api/
+# news: /news/
+# plugins: /plugins/
+# themes: /themes/
