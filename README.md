@@ -1,5 +1,5 @@
 # Yaokantv Docs
-
+> [示例](https://fervent-goldberg-a4201e.netlify.com/ "示例")
 
 ## 文档编写
 ### 添加顶部菜单
