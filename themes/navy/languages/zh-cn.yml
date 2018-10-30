@@ -5,7 +5,7 @@ menu:
   plugins: 插件
   themes: 主题
   search: 搜索
-  docs_android: 安卓-SDK
+  docs_android: Android-SDK
   docs_ios: iOS-SDK
 
 index:

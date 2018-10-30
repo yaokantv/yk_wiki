@@ -2,10 +2,11 @@ title: Yaokantv
 subtitle: "Wiki System"
 description: "Wiki System"
 author: Yaokantv
+copy: 遥看科技
 language:
   - zh-cn
-  - en-us
-timezone: UTC
+  # - en-us
+timezone: PRC
 
 url: https://hexo.io
 root: /
