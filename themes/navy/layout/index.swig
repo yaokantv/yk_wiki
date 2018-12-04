@@ -2,7 +2,7 @@
   <div class="wrapper">
     <h2 id="banner-title">{{ page.subtitle }}</h2>
     <div id="intro-get-started-wrap">
-        <a href="zh-cn/docs_ios/index.html" id="intro-get-started-link">{{ __('index.get_started') }}</a>
+        <a href="zh-cn/ykzxsdk/index.html" id="intro-get-started-link">{{ __('index.get_started') }}</a>
       </div>
   </div>
   <div style="height: 200px"></div>

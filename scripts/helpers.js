@@ -7,7 +7,7 @@ var _ = require('lodash');
 var cheerio = require('cheerio');
 var lunr = require('lunr');
 
-var localizedPath = ['docs', 'api', 'docs_ios', 'docs_android'];
+var localizedPath = ['docs', 'api', 'docs_ios', 'docs_android','yksdk','ykzxsdk'];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
@@ -73,8 +73,8 @@ hexo.extend.helper.register('header_menu', function(className) {
   var isEnglish = lang === 'en';
 
   _.each(menu, function(path, title) {
-    if (!isEnglish && ~localizedPath.indexOf(title)) path = lang + path;
-
+    // if (!isEnglish && ~localizedPath.indexOf(title)) path = lang + path;
+    path = lang + path;
     result += '<a href="' + self.url_for(path) + '" class="' + className + '-link">' + self.__('menu.' + title) + '</a>';
   });
 

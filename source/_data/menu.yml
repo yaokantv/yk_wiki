@@ -2,8 +2,11 @@
 #   ios: /docs/
 #   android: /docs/
 # docs: /docs/
-docs_ios: /docs_ios/
-docs_android: /docs_android/
+#docs_ios: /docs_ios/
+#docs_android: /docs_android/
+ykzxsdk: /ykzxsdk/
+yksdk: /yksdk/
+
 
 # api: /api/
 # news: /news/

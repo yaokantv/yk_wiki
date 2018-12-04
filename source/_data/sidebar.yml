@@ -11,4 +11,23 @@ docs_ios:
     detailed: detailed.html
     update_log: update_log.html
     code_description: code_description.html
+    rc_key: rc_key.html
+ykzxsdk:
+  android:
+    overview: index.html
+    detailed: detailed.html
+    update_log: update_log.html
+    code_description: code_description.html
     rc_key: rc_key.html 
+  ios:
+    ios_overview: ios_overview.html
+    ios_detailed: ios_detailed.html
+    ios_update_log: ios_update_log.html
+    ios_code_description: ios_code_description.html
+    ios_rc_key: ios_rc_key.html
+yksdk:
+  ios:
+    yksdk_ios: index.html
+  android:
+    yksdk_android: yksdk_android.html
+

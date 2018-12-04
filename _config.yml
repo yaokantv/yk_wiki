@@ -8,7 +8,7 @@ language:
   # - en-us
 timezone: PRC
 
-url: https://hexo.io
+url: https://doc.yaokantv.com
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
