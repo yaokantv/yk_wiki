@@ -9,6 +9,7 @@ menu:
   docs_ios: iOS-SDK
   yksdk: 遥看SDK
   ykzxsdk: 遥控中心SDK
+  cloudapi: 云API
 
 index:
   get_started: 开始使用
@@ -22,6 +23,10 @@ page:
   last_updated: 上次更新：%s
 
 sidebar:
+  cloudapi:
+    cloudapi: 云API
+    index: 酒店网关接口开发文档
+    cloud2cloud: 遥看云云对接接口文档
   ykzxsdk:
     ios: iOS文档
     overview: 概述

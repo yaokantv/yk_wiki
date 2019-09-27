@@ -7,7 +7,7 @@ var _ = require('lodash');
 var cheerio = require('cheerio');
 var lunr = require('lunr');
 
-var localizedPath = ['docs', 'api', 'docs_ios', 'docs_android','yksdk','ykzxsdk'];
+var localizedPath = ['docs', 'api', 'docs_ios', 'docs_android','yksdk','ykzxsdk','cloudapi'];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;

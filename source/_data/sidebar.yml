@@ -30,4 +30,7 @@ yksdk:
     yksdk_ios: index.html
   android:
     yksdk_android: yksdk_android.html
-
+cloudapi:
+  cloudapi:
+    index: index.html
+    cloud2cloud: cloud2cloud.html
